@@ -10,3 +10,20 @@ header{
     width: 37%;
     margin-top: 2%;
 }
+
+h1{
+    font-size: 30px;
+}
+
+
+.color-aqua{
+    color: aqua;
+}
+
+.opacity{
+    opacity: 50%;
+}
+
+.little-font{
+    font-size: 10px;
+}
