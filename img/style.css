@@ -1,0 +1,12 @@
+header{
+    background-image: url("pattern.png");
+    background-color: rgb(88, 88, 212);
+    background-repeat: repeat-x;
+   
+  
+}
+
+#the-booleaner{
+    width: 37%;
+    margin-top: 2%;
+}
