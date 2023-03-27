@@ -27,3 +27,23 @@ h1{
 .little-font{
     font-size: 10px;
 }
+
+
+.wider{
+    width: 45%;
+}
+
+#second-image {
+    height: 451px;
+}
+
+
+.marked{
+    background-color: rgb(223, 255, 61);
+}
+
+
+.more-margin{
+    margin-top:2%;
+    margin-bottom: 3%;
+}
