@@ -65,3 +65,29 @@ th{
 }
 
 
+#background-image1{
+    background-image: url(graph.jpg);
+    background-repeat: no-repeat;
+    font-size: 70px;
+    font-weight: normal;
+    line-height: 55px;
+    text-align: center;
+    width: 240px;
+    height: 170 px;
+    font-size: 30px;
+    color:aliceblue;
+}
+
+
+#background-image2{
+    background-image: url(monitor.jpg);
+    background-repeat: no-repeat;
+    font-size: 70px;
+    font-weight: normal;
+    line-height: 55px;
+    text-align: center;
+    width: 240px;
+    height: 170 px;
+    font-size: 30px;
+    color:aliceblue;
+}
