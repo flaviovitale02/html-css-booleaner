@@ -2,11 +2,11 @@ header{
     background-image: url("pattern.png");
     background-color: rgb(88, 88, 212);
     background-repeat: repeat-x;
-
+    height: 160px;
 }
 
 #the-booleaner{
-    width: 37%;
+    width: 20%;
     margin-top: 2%;
 }
 
@@ -63,6 +63,7 @@ table{
 
 th{
     width:20%;
+    text-align: left;
 }
 .larger-th{
     width: 50%;
