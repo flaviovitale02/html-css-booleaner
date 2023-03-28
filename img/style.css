@@ -53,6 +53,10 @@ th{
     color:aliceblue
 }
 
+table{
+    border-collapse: collapse;
+}
+
 .azzurro{
     background-color: aquamarine;
 }
